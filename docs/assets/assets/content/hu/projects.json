@@ -1,0 +1,43 @@
+[
+  {
+    "id": "todo_app",
+    "name": "Feladatkezelő Alkalmazás",
+    "shortDescription": "Átfogó feladatkezelő megoldás",
+    "longDescription": "Egy teljes körű todo alkalmazás helyi tárolással és offline támogatással.",
+    "category": "Produktivitás",
+    "version": "1.0.0",
+    "platforms": ["Android", "Windows", "Linux", "Web"],
+    "technologies": ["Flutter", "Dart", "SQLite", "Provider"],
+    "features": [
+      "Feladatok létrehozása, olvasása, frissítése, törlése",
+      "Kategóriák és címkék",
+      "Értesítések",
+      "Sötét mód támogatás",
+      "Offline működés"
+    ],
+    "releaseDate": "2024-01-15",
+    "isFeatured": true,
+    "priority": 1
+  },
+  {
+    "id": "weather_app",
+    "name": "Időjárás Előrejelzés",
+    "shortDescription": "Valós idejű időjárás alkalmazás",
+    "longDescription": "Pontos időjárás-előrejelzés gyönyörű UI-val és részletes adatokkal.",
+    "category": "Segédprogramok",
+    "version": "2.0.0",
+    "platforms": ["Android", "iOS", "Web"],
+    "technologies": ["Flutter", "REST API", "GetX", "Firebase"],
+    "features": [
+      "Valós idejű adatok",
+      "Óránkénti és heti előrejelzés",
+      "Helyszín keresés",
+      "Riasztások",
+      "Időjárási térképek"
+    ],
+    "githubUrl": "https://github.com/wildakos001-cmd/program_fejlesztes",
+    "releaseDate": "2024-03-20",
+    "isFeatured": true,
+    "priority": 2
+  }
+]
